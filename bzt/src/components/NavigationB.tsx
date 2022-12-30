@@ -16,6 +16,8 @@ const NavigationB = () => {
         <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Compare
         </a>
+        </li>
+        <li>
         <div className="dropdown-menu" aria-labelledby="navbarDropdown">
           <a className="dropdown-item" href="#">Virtual Rating change</a>
         </div>

@@ -29,16 +29,6 @@ export default function Verdict({data,name,doughnut,userHandle}:{data : any,name
       }
     
       console.log(data, typeof data);
-      // const data02 = [
-      //   { name: 'Group A', value: 2400 },
-      //   { name: 'Group B', value: 4567 },
-      //   { name: 'Group C', value: 1398 },
-      //   { name: 'Group D', value: 9800 },
-      //   { name: 'Group E', value: 3908 },
-      //   { name: 'Group F', value: 4800 },
-      // ];
-
-      // console.log(render.current);
   return (
     <div className="card cardV m-3">
     <div className='my-3'>
